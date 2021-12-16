@@ -295,7 +295,7 @@ width: 240px;
 }
 .fly-header{
     height: 350px;
-    background: url(../img/sec_flight/header.jpg) no-repeat center bottom;
+    background: url(../img/sec_flight/header.jpg) no-repeat center top;
     background-size: cover;
 }
 .bed-header{
